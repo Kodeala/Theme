@@ -25,7 +25,7 @@
 	</head>
 
 	<body <?php body_class(); ?>>
-
+This is a test.
 		<?php
 		wp_body_open();
 		?>
